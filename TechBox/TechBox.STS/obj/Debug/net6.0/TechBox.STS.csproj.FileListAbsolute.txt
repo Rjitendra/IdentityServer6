@@ -1,0 +1,1191 @@
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\appsettings.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\keys\is-signing-key-D62504E4C4E9C250A8FA08E09DD0FC48.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\keys\is-signing-key-D6BB7EF6D24DA3FC4C3AFFF8CBD9F422.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\libman.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.staticwebassets.runtime.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.exe
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.deps.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.runtimeconfig.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\netstandard.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Console.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Data.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Web.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\AspNet.Security.OAuth.GitHub.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\AutoMapper.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Humanizer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\IdentityModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MailKit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MessagePack.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MimeKit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Octokit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Service.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Service.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.csproj.AssemblyReference.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.AssemblyInfoInputs.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.AssemblyInfo.cs
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.csproj.CoreCompileInputs.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.RazorAssemblyInfo.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.RazorAssemblyInfo.cs
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\scopedcss\bundle\TechBox.STS.styles.css
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.csproj.CopyComplete
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\refint\TechBox.STS.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.genruntimeconfig.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\ref\TechBox.STS.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\appsettings.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\keys\is-signing-key-D62504E4C4E9C250A8FA08E09DD0FC48.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\keys\is-signing-key-D6BB7EF6D24DA3FC4C3AFFF8CBD9F422.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\libman.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.staticwebassets.runtime.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.exe
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.deps.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.runtimeconfig.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.STS.pdb
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\netstandard.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Console.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Data.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Web.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\AspNet.Security.OAuth.GitHub.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\AutoMapper.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Humanizer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\IdentityModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MailKit.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MessagePack.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\MimeKit.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Octokit.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Service.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\TechBox.Service.pdb
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.csproj.AssemblyReference.cache
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.AssemblyInfoInputs.cache
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.AssemblyInfo.cs
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.csproj.CoreCompileInputs.cache
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.RazorAssemblyInfo.cache
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.RazorAssemblyInfo.cs
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\scopedcss\bundle\TechBox.STS.styles.css
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.csproj.CopyComplete
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\refint\TechBox.STS.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.pdb
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\TechBox.STS.genruntimeconfig.cache
+C:\Workspace\TechBox\TechBox\TechBox.STS\obj\Debug\net6.0\ref\TechBox.STS.dll
+C:\Workspace\TechBox\TechBox\TechBox.STS\bin\Debug\net6.0\keys\is-signing-key-5FD6E55EE135D381018062BBC8F85FF7.json

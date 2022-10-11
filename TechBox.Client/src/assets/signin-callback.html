@@ -1,0 +1,24 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/oidc-client/1.5.2/oidc-client.js"></script>
+<script>
+    var mgr = new Oidc.UserManager({
+        userStore: new Oidc.WebStorageStateStore({ store: window.localStorage })
+    });
+
+    mgr.signinRedirectCallback().then(function (user) {
+        // window.history.replaceState({},
+        //     window.document.title,
+        //     window.location.origin+ window.location.pathname
+
+        //     );
+        
+            window.location =  user.state || "/";
+           
+       
+    }, error => {
+        // If users bookmark the login page and click on the book mark, they will sign in and reach this page and the signInRedirectCallback()
+        // will return an error that the state didn't match. Redirecting users to the root will redirect back to IdentityServer, which will
+        // correctly have the state and redirect back to this page with the state filled out.
+        // Warning: this could potenitally put in a redirect loop if there really is something wrong.
+        window.location = "..";
+    });
+</script>

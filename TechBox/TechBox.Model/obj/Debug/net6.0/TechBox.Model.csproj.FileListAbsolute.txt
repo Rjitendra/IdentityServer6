@@ -1,0 +1,24 @@
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\bin\Debug\net6.0\TechBox.Model.deps.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\bin\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\bin\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.csproj.AssemblyReference.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.AssemblyInfoInputs.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.AssemblyInfo.cs
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.csproj.CoreCompileInputs.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\refint\TechBox.Model.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\ref\TechBox.Model.dll
+C:\Workspace\TechBox\TechBox\TechBox.Model\bin\Debug\net6.0\TechBox.Model.deps.json
+C:\Workspace\TechBox\TechBox\TechBox.Model\bin\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\TechBox\TechBox\TechBox.Model\bin\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.csproj.AssemblyReference.cache
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.AssemblyInfoInputs.cache
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.AssemblyInfo.cs
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.csproj.CoreCompileInputs.cache
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\refint\TechBox.Model.dll
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\TechBox\TechBox\TechBox.Model\obj\Debug\net6.0\ref\TechBox.Model.dll

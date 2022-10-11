@@ -1,0 +1,144 @@
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\appsettings.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.exe
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.deps.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.runtimeconfig.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\IdentityModel.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\MailKit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\MimeKit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Service.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Service.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.csproj.AssemblyReference.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.AssemblyInfoInputs.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.AssemblyInfo.cs
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.csproj.CoreCompileInputs.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\scopedcss\bundle\TechBox.API.styles.css
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.csproj.CopyComplete
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\refint\TechBox.API.dll
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.pdb
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.genruntimeconfig.cache
+C:\Workspace\Project\Chandan Sir TechBox\TechBox\TechBox.API\obj\Debug\net6.0\ref\TechBox.API.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\appsettings.json
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.exe
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.deps.json
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.runtimeconfig.json
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.API.pdb
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\IdentityModel.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\MailKit.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\MimeKit.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Model.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Service.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Model.pdb
+C:\Workspace\TechBox\TechBox\TechBox.API\bin\Debug\net6.0\TechBox.Service.pdb
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.csproj.AssemblyReference.cache
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.AssemblyInfoInputs.cache
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.AssemblyInfo.cs
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.csproj.CoreCompileInputs.cache
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\scopedcss\bundle\TechBox.API.styles.css
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.csproj.CopyComplete
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\refint\TechBox.API.dll
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.pdb
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\TechBox.API.genruntimeconfig.cache
+C:\Workspace\TechBox\TechBox\TechBox.API\obj\Debug\net6.0\ref\TechBox.API.dll
