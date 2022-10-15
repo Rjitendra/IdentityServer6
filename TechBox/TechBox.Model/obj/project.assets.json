@@ -2834,11 +2834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
+      "projectUniqueName": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
       "projectName": "TechBox.Model",
-      "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
+      "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
       "packagesPath": "C:\\Users\\jbjit\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\obj\\",
+      "outputPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jbjit\\AppData\\Roaming\\NuGet\\NuGet.Config",

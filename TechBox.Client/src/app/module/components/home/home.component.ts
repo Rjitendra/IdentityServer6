@@ -38,10 +38,10 @@ export class HomeComponent implements OnInit {
 
     this.clearMessages();
 
-    const headers = new HttpHeaders()
-      .set('content-type', 'application/json')
-      .set('Authorization', 'Bearer ' + this.currentUser.access_token)
-    return this.httpClient.get('http://localhost:6001/identity', { headers }).subscribe(x => {
+    // const headers = new HttpHeaders()
+    //   .set('content-type', 'application/json')
+    //   .set('Authorization', 'Bearer ' + this.currentUser.access_token)
+    return this.httpClient.get('http://localhost:6001/identity').subscribe(x => {
       this.addMessage('API Result: ' + JSON.stringify(x));
     });
   }

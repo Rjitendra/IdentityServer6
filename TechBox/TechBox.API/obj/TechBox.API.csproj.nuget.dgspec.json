@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\TechBox\\TechBox\\TechBox.API\\TechBox.API.csproj": {}
+    "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.API\\TechBox.API.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\TechBox\\TechBox\\TechBox.API\\TechBox.API.csproj": {
+    "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.API\\TechBox.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\TechBox\\TechBox\\TechBox.API\\TechBox.API.csproj",
+        "projectUniqueName": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.API\\TechBox.API.csproj",
         "projectName": "TechBox.API",
-        "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.API\\TechBox.API.csproj",
+        "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.API\\TechBox.API.csproj",
         "packagesPath": "C:\\Users\\jbjit\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.API\\obj\\",
+        "outputPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbjit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj": {
-                "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj"
+              "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj": {
+                "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj"
               },
-              "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\TechBox.Service.csproj": {
-                "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\TechBox.Service.csproj"
+              "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\TechBox.Service.csproj": {
+                "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\TechBox.Service.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj": {
+    "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
+        "projectUniqueName": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
         "projectName": "TechBox.Model",
-        "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
+        "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
         "packagesPath": "C:\\Users\\jbjit\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\obj\\",
+        "outputPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbjit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\TechBox.Service.csproj": {
+    "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\TechBox.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\TechBox.Service.csproj",
+        "projectUniqueName": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\TechBox.Service.csproj",
         "projectName": "TechBox.Service",
-        "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\TechBox.Service.csproj",
+        "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\TechBox.Service.csproj",
         "packagesPath": "C:\\Users\\jbjit\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\obj\\",
+        "outputPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbjit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,8 +172,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj": {
-                "projectPath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj"
+              "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj": {
+                "projectPath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mUP4VP85jfMZts8eYXRYz7sAENMlY9gTQP54V22WDl1jkzyi/UfAyPXDOuPJPDkcn9HaefDNJOEVr4Fb0hSlhg==",
+  "dgSpecHash": "V3kDAqnbB/yWTodYVGZvWoXCpqTWjr2hwf/uh1Dt54DwBGlKfQU7zn5fi4SY2eE1Ip7juIGqYgMhZjsYjOMcew==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.STS\\TechBox.STS.csproj",
+  "projectFilePath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.STS\\TechBox.STS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbjit\\.nuget\\packages\\aspnet.security.oauth.github\\6.0.11\\aspnet.security.oauth.github.6.0.11.nupkg.sha512",
     "C:\\Users\\jbjit\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",

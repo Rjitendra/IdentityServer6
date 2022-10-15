@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vXVSr5Tuq/IGFw1G0e717ADhNhoQWtggml4ibLxRaYCuAQ6CWzDDSwdzwiL6hNDLT+uQlYxeHT3pW1+lPP6RLw==",
+  "dgSpecHash": "EjG1t/dQl3+0/tKfOEpjiux1RrF+JZ5HWntYo8IfumjgB9cYPfpzV3Y++wVCoX9maK4NQB7FCAjtn7zdisUm6A==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.API\\TechBox.API.csproj",
+  "projectFilePath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.API\\TechBox.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbjit\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
     "C:\\Users\\jbjit\\.nuget\\packages\\identitymodel.aspnetcore.oauth2introspection\\4.0.1\\identitymodel.aspnetcore.oauth2introspection.4.0.1.nupkg.sha512",

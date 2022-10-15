@@ -7,6 +7,9 @@ import { AppComponent } from './app.component';
 import { LayoutComponent } from './module/components/layout/layout.component';
 import { SigninCallbackComponent } from './oauth/components/signin-callback/signin-callback.component';
 import { HomeComponent } from './module/components/home/home.component';
+import { PrimeModule } from './shared/prime/prime.module';
+import { CoreModule } from './core/core.module';
+
 
 @NgModule({
   declarations: [
@@ -18,6 +21,8 @@ import { HomeComponent } from './module/components/home/home.component';
   imports: [
     BrowserModule,
     HttpClientModule,
+    CoreModule,
+    PrimeModule,
     AppRoutingModule
   ],
   providers: [],

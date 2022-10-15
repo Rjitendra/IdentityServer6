@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UwyuOYywrDO36d++5xxgHEUCkGgmIst86JRiHVJgNwkDkrDatpsLI7EkJ47Ao2VNnup1z0gFA7uod9rNBeOqHA==",
+  "dgSpecHash": "JPB7OcGQ/oyHeYKF64Ieeoeivat3gvFG/6VrEbegA69NSibGfjS/X8WSvRu4QyZKOYpl6zlXH1t/5w18PQi5Dw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
+  "projectFilePath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Model\\TechBox.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbjit\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\jbjit\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

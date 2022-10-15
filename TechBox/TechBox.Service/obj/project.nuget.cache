@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIwpf4PAt7lCOu6Wh+meojMM5KbyIZxwlcKYfEFj0aCLawEF0SP46f6XXT5sl+hooJPl/IoE0F5YTDOGJUM/mg==",
+  "dgSpecHash": "0QmxNf+ckaRDojAGZE6Klemeji2LBAmDT0m0xB66HLbYEr05yfoMBXdsQONwEO0y1DVskH8Tc5KKGr/cwKRxWA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\TechBox\\TechBox\\TechBox.Service\\TechBox.Service.csproj",
+  "projectFilePath": "C:\\Workspace\\TechBox\\IdentityServer6\\TechBox\\TechBox.Service\\TechBox.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbjit\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\jbjit\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

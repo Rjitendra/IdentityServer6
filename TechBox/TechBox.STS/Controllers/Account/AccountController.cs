@@ -122,19 +122,6 @@ namespace TechBox.STS.Controllers.Account
             {
                 if (context != null)
                 {
-                    // if the user cancels, send a result back into IdentityServer as if they 
-                    // denied the consent (even if this client does not require consent).
-                    // this will send back an access denied OIDC error response to the client.
-                    await _interaction.DenyAuthorizationAsync(context, AuthorizationError.AccessDenied);
-
-                    // we can trust model.ReturnUrl since GetAuthorizationContextAsync returned non-null
-                    if (context.IsNativeClient())
-                    {
-                        // The client is native, so this change in how to
-                        // return the response is for better UX for the end user.
-                        return this.LoadingPage("Redirect", model.ReturnUrl);
-                    }
-
                     return Redirect(model.ReturnUrl);
                 }
                 else
@@ -370,10 +357,10 @@ namespace TechBox.STS.Controllers.Account
             {
                 if (ModelState.IsValid)
                 {
-                    //var user = await this._userManager.FindByEmailAsync(model.Email);
+                   
                     var existUser = this.ApiContext.Users.Where(x => x.Email == model.Email && x.IsExternalUser == false).SingleOrDefault();
                     ViewBag.errorMessage = "<p>An email has been sent to your registered email.</p> Please check your email and follow the instructions.";
-                    //if (user == null || !(await this._userManager.IsEmailConfirmedAsync(user)))
+
                     if (existUser == null || !existUser.EmailConfirmed)
                     { // reveal that the user does not exist or is not confirmed
 
@@ -383,7 +370,6 @@ namespace TechBox.STS.Controllers.Account
 
                     var code = await _userManager.GeneratePasswordResetTokenAsync(existUser);
                     var callbackUrl = this.Url.ResetPasswordCallbackLink(existUser.Id, code, this.Request.Scheme);
-                    // await this.Mailer.SendResetPasswordAsync(user.Email, callbackUrl);
                     var mailObj = new MailRequestDto()
                     {
                         ToEmail = existUser.Email,
